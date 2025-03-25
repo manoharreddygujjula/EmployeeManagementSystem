@@ -1,0 +1,12 @@
+.loginpage {
+    background: url('Images/employees.jpeg');
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5), url("Images/employees.jpeg"));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginform {
+    background-color: rgba(1,32,93,0.6);
+    color: white;
+}
